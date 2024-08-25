@@ -82,7 +82,7 @@ defmodule DenoEx.MixProject do
     [
       # Production dependencies
       {:octo_fetch, "~> 0.3.0"},
-      {:nimble_options, "~> 1.0.2"},
+      {:nimble_options, "~> 1.1.1"},
 
       # Development dependencies
       {:recon, "~> 2.5", only: [:dev]},
